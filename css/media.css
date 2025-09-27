@@ -74,8 +74,39 @@ padding-inline:0px !important;
 }
 
 .resnav{
-padding-inline:0px !important;
-width:10% !important;    
+padding-inline:0px !important;    
+}
+
+
+.i+div h1{
+ font-size: 40px !important; 
+  margin-left:120px !important ;
+  top:70px !important;
+  position: absolute !important;
+ }   
+
+
+header ul li a i{
+margin-top: 130px !important;    
+margin-left:5px !important;
+transition: 1s;
+}
+
+header ul li a{
+font-size:18px !important ;    
+}
+
+
+
+
+
+
+
+.c{
+padding-inline:2px;
+padding-top:2px ;
+padding-bottom:2px ; 
+top:160px !important;   
 }
 
 
