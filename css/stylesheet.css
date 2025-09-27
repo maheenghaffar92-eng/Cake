@@ -604,7 +604,7 @@ top:20px;
 .resnav ul li a{
 text-decoration:none ;
 color:white;
-padding:8px ;
+padding:8px !important;
 
 background-color: #0A0A0A;
 display: block;
