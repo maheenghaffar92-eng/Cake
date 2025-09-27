@@ -67,30 +67,11 @@ height:30vh ;
 }
 
 
+
+
 .resnav ul li a{
-text-decoration:none ;
-color:white;
-padding:8px !important;
-
-background-color: #0A0A0A;
-display: block !important;
-
+padding-inline:80px ;
 }
-
-.resnav ul{
-top:80px !important;
-position: absolute !important;
-
-background-color: #0A0A0A; 
-left:0px !important;
-
-}
-
-
-.resnav{
-display: none !important;
-}  
-
 
 
 

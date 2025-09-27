@@ -604,8 +604,8 @@ top:20px;
 .resnav ul li a{
 text-decoration:none ;
 color:white;
-padding:8px !important;
-
+padding:8px ;
+padding-inline:80px ;
 background-color: #0A0A0A;
 display: block;
 }
@@ -613,11 +613,11 @@ display: block;
 .resnav ul{
 top:80px;
 position: absolute;
-
+left:0; 
 background-color: #0A0A0A; 
+top:80px;
 
-
-
+padding-inline: 0px;
 }
 
 .resnav{
@@ -632,9 +632,9 @@ input{
 
 .resnav{
 transition:0.3s ;  
-
+width:1000%;
 background-color: #0A0A0A;
-
+text-align: center;
 display:none;
 }
 
