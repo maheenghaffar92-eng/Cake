@@ -632,7 +632,7 @@ input{
 
 .resnav{
 transition:0.3s ;  
-width:1000%;
+width:100%;
 background-color: #0A0A0A;
 text-align: center;
 display:none;
