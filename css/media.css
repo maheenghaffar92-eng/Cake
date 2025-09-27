@@ -66,6 +66,29 @@ height:30vh ;
  padding-bottom:8px !important;
 }
 
+
+.resnav ul li a{
+text-decoration:none ;
+color:white;
+padding:8px ;
+
+background-color: #0A0A0A;
+display: block;
+}
+
+.resnav ul{
+top:80px;
+position: absolute;
+
+background-color: #0A0A0A; 
+
+
+
+}
+
+
+
+
 .e .cont{
 display:none ;    
 }
