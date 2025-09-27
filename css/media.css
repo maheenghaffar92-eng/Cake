@@ -70,11 +70,11 @@ height:30vh ;
 
 
 .resnav ul li a{
-padding-inline:0px ;
+padding-inline:0px !important;
 }
 
 .resnav{
-padding-inline:0px ;    
+padding-inline:0px !important;    
 }
 
 
