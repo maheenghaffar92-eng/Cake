@@ -19,7 +19,7 @@ top:124px;
 
 section{
  background-image:url('../h1_hero1.jpg.webp') ;  
-background-size:100% !important;   
+background-size:200%;   
 height: 200px;
 }
 
@@ -651,11 +651,11 @@ margin-left:60px ;
 }
 
 .section a{
- top:90px !important;   
+ top:70px;   
  left:60px;
- padding-inline:20px ;
- padding-top:8px ;
- padding-bottom:8px ;
+ padding-inline:30px ;
+ padding-top:15px ;
+ padding-bottom:15px ;
 }
 
 .e .cont{
