@@ -74,6 +74,7 @@ padding:8px !important;
 
 background-color: #0A0A0A;
 display: block !important;
+
 }
 
 .resnav ul{
@@ -81,8 +82,7 @@ top:80px !important;
 position: absolute !important;
 
 background-color: #0A0A0A; 
-
-
+left:0px !important;
 
 }
 
