@@ -605,7 +605,7 @@ top:20px;
 text-decoration:none ;
 color:white;
 padding:8px ;
-padding-inline:80px ;
+padding-inline:0px !important;
 background-color: #0A0A0A;
 display: block;
 }
@@ -617,7 +617,7 @@ left:0;
 background-color: #0A0A0A; 
 top:80px;
 
-padding-inline: 0px;
+padding-inline: 0px !important;
 }
 
 .resnav{
